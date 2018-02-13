@@ -1,0 +1,12 @@
+{
+  "name": "select",
+  "version": "0.0.0",
+  "description": "Wrapper for select system call",
+  "main": "select.js",
+  "private": true,
+  "gypfile": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "node-gyp": "^3.6.2"
+  }
+}
